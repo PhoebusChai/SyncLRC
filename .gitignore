@@ -12,7 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
-eggs/
+eggs/git
 .eggs/
 lib/
 lib64/
